@@ -203,15 +203,4 @@ Hardware:              NVIDIA RTX 3050 6GB (local training)
 
 ---
 
-## Part of AI Engineer Portfolio
-
-| Track | Project | Result |
-|-------|---------|--------|
-| **Applied AI** | HindiKrishi — Qwen 2.5 3B QLoRA Hindi crop advisory | On HuggingFace |
-| **Computer Vision** | cv-pipeline — YOLO, ByteTrack, Re-ID, Pose, 3D | 45.6% mAP |
-| **CV Research** | This repo — Synthetic data + sim-to-real gap | **75.1% mAP, 94.6% gap** |
-| **Physical AI** | smolvla-libero — Voice-controlled robot manipulation | 40% success |
-
----
-
-*Built by Md Ehtasham Nabi — AI Engineer, Bengaluru*
+*Built by Md Ehtasham Nabi — AI & CV Engineer, Bengaluru*
