@@ -1,0 +1,5 @@
+train: /home/nabi/synthetic-defect-detection/data/synthetic/train/images
+val: /home/nabi/synthetic-defect-detection/data/synthetic/val/images
+test: /home/nabi/synthetic-defect-detection/data/synthetic/test/images
+nc: 3
+names: ['clean', 'crack', 'bubble']

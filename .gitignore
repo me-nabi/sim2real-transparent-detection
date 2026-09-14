@@ -1,0 +1,38 @@
+# Large files
+*.pt
+*.pth
+*.onnx
+*.zip
+*.tar.xz
+
+# Training runs
+runs/
+wandb/
+
+# Data — images not pushed (too large / redistributable)
+data/synthetic/images/
+data/synthetic/labels/
+data/synthetic/train/
+data/synthetic/val/
+data/synthetic/test/
+data/real_combined/
+data/real_all/
+data/real_glass_model/
+data/real_transparent/
+data/real_bottle/
+data/real/
+data/mixed/
+data/mixed2/
+data/mixed_v2/
+
+# Blender cache
+blender/__pycache__/
+*.blend1
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# System
+.DS_Store
